@@ -137,7 +137,6 @@ CREATE TABLE `Store` (
     )
 );
 
--- Free plan table limit reached. SUBSCRIBE for more.
 
 
 
@@ -171,11 +170,6 @@ REFERENCES `Store` (`storeIdx`, `storeName`, `storeScore`);
 ALTER TABLE `Store` ADD CONSTRAINT `fk_Store_categoryIdx` FOREIGN KEY(`categoryIdx`)
 REFERENCES `Category` (`categoryIdx`);
 
--- Free plan table limit reached. SUBSCRIBE for more.
-
-
-
--- Free plan table limit reached. SUBSCRIBE for more.
 
 
 
