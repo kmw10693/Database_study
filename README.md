@@ -1,5 +1,6 @@
 
-배달의 민족 ERD 설계
+### QUICKDBD로 만든 간단한 배달의 민족 ERD 설계도입니다.
+### 유저, 포인트, 쿠폰, 찜한 가게, 리뷰, 장바구니, 주문 기능이 포함되어 있습니다.
 
 ![캡처 JPG](https://user-images.githubusercontent.com/60867950/139843071-0366397b-5ca9-4be9-baaf-9bd1a3b6d070.jpg)
 ![1](https://user-images.githubusercontent.com/60867950/139843432-35897370-cfd2-4ec6-b51d-baa8e8eb71fd.JPG)
